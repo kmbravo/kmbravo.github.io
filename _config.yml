@@ -1,0 +1,11 @@
+title: 我的博客
+description: 这是我的个人博客
+theme: minima
+
+# 添加以下行
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"

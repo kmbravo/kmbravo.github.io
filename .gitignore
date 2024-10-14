@@ -1,0 +1,17 @@
+# Ignore .DS_Store files in all directories
+.DS_Store    # macOS
+Thumbs.db	# Windows
+
+# folders
+.vscode/
+.idea/
+
+# obsidian files
+.obsidian/
+
+# ignore additional files
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor
